@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Finserv 
+          Finserv support tools
         </p>
       </header>
     </div>
